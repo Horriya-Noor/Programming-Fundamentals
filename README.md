@@ -8,8 +8,8 @@ Welcome to the official repository for my **Programming Fundamentals** course du
 ## 📌 Course Overview
 This course lays the foundational bedrock for computer science and software engineering. It introduces the core concepts of structured programming, problem-solving methodologies, and algorithmic thinking using a high-level programming language (C++ / Python).
 
-> **Campus:** Gulberg Campus, Lahore  
-> **Session:** Fall 2025 - Spring 2026  
+> **Campus:** Gulberg Campus, Islamabad 
+> **Semester:** 1st  
 > **Objective:** To transition from a computer user to a logical problem solver.
 
 ---
